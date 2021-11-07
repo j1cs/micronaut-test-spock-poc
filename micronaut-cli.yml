@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: me.jics.main
+testFramework: spock
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, gcp-pubsub, google-cloud-function, google-cloud-function-http, java, java-application, logback, lombok, maven, reactor, readme, shade, spock, yaml]
